@@ -12,7 +12,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Kabootar Haryanvi song ", filePath: "./3.mp3", coverPath: "/1.png"},
     {songName: "4G KA JAMANA", filePath: "/2.mp3", coverPath: "/2.jpeg"},
-    {songName: "Bahu Chaudhariya ki", filePath: "/3.mp3", coverPath: "/3.jpeg"},
+    {songName: "Bahu Chaudhariya ki", filePath: "https://raw.githubusercontent.com/lokeshyadav0529/DJ-YADAV/refs/heads/main/3.mp3", coverPath: "/3.jpeg"},
     {songName: "Bahu Jamidar ki  New  2015 Superhit ", filePath: "/4.mp3", coverPath: "/4.jpeg"},
     {songName: "Bahu Kale Ki AJAY HOODA", filePath: "/5.mp3", coverPath: "/5.jpeg"},
     {songName: "BAHU_BATASE_Si_", filePath: "/6.mp3", coverPath: "/6.jpeg"},
