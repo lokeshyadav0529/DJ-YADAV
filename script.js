@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Kabootar Haryanvi song ", filePath: "https://raw.githubusercontent.com/lokeshyadav0529/DJ-YADAV/refs/heads/main/1.mp3", coverPath: "covers/1.png"},
+    {songName: "Kabootar Haryanvi song ", filePath: "blob:https://github.com/bbe9c816-091d-43ff-8da6-bd1f89652e82", coverPath: "covers/1.png"},
     {songName: "4G KA JAMANA", filePath: "songs/2.mp3", coverPath: "covers/2.jpeg"},
     {songName: "Bahu Chaudhariya ki", filePath: "songs/3.mp3", coverPath: "covers/3.jpeg"},
     {songName: "Bahu Jamidar ki  New  2015 Superhit ", filePath: "songs/4.mp3", coverPath: "covers/4.jpeg"},
